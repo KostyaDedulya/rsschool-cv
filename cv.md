@@ -12,7 +12,7 @@ I want to study and learn new technologies, that help me to find job and to make
 ##### EXPERIENCE
 Algorithmic tasks on [codewars](https://www.codewars.com/users/KostyaDedulya)
 ##### EDUCATION
-- MSHСoRE
+- MSHCoRE
 - BSUIR
 ##### ENGLISH
 English on level of A2+
