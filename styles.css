@@ -1,0 +1,17 @@
+body{
+    font-size: 14px;
+}
+
+h1,
+h2{
+    text-transform: uppercase;
+}
+
+.wrapper{
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+.photo{
+    border-radius: 5%;
+}
